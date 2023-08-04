@@ -6,7 +6,7 @@
 
 **SGBD**: MySQL
 
-**Desenvolvedor**: Danilo Cesar ADS
+**Desenvolvedor**: Elisandro Soares
 
 **Objetivo**: Criar um projeto lógico de sistema de banco de dados relacional para persistir e gerenciar informações relativas as atividades comerciais e logísticas de uma empresa de E-commerce.
 
